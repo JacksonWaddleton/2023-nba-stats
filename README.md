@@ -28,6 +28,25 @@ Answer (descending order): Giannis Antetokounmpo, Russell Westbrook, Evan Mobley
 
 Answer (ascending order): Rudy Gay, Jeff Green, Wesley Matthews, Lebron James, and Kyle Lowry
 
+**Question 4: Which five players led the NBA in 'stocks' (steals + blocks)?**
+
+![Screen Shot 2023-08-28 at 10 26 50 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/d8d70869-5f9a-43e3-a829-5ec82a19b96d)
+
+![Screen Shot 2023-08-28 at 10 27 08 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/0c476fd2-573e-44b5-a130-05fe9d6f637c)
+
+Answer (descending order): Jaren Jackson, Jr. & Nic Claxton, Brook Lopez, Walker Kessler, and Anthony Edwards
+**Question 5: Did any players record more offensive rebounds than defensive rebounds?**
+
+![Screen Shot 2023-08-28 at 10 28 20 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/83838ace-cf21-49e1-a9f3-55c9412828cc)
+
+![Screen Shot 2023-08-28 at 10 28 44 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/a5351171-349e-462d-bf59-ab2bff580019)
+
+Yes, there were 9 players with more offensive than defensive rebounds. 
+
+
+
+
+
 
 
 ## Part 2: Use of CASE WHEN 
