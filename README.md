@@ -1,6 +1,6 @@
 # 🏀 2023 NBA Player Statistics Case Study
 
-## Data Cleaning 
+## Data Cleaning Process
 
 ## Part 1: Use of SELECT Queries
 
