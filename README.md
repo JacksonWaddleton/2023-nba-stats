@@ -4,7 +4,7 @@
 
 ## Part 1: Use of SELECT Queries
 
-Question 1: Among players that played at least 1000 minutes, which five players had the most assists per minute? 
+**Question 1: Among players that played at least 1000 minutes, which five players had the most assists per minute?**
 
 ![Screen Shot 2023-08-28 at 9 48 42 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/198a6579-3c75-44fd-889d-5bddafddea35)
 
