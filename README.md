@@ -20,6 +20,15 @@ Answer (descending order): Tyrese Haliburton, Nikola Jokic, Trae Young, James Ha
 
 Answer (descending order): Giannis Antetokounmpo, Russell Westbrook, Evan Mobley, Rudy Gobert, Jakob Poeltl
 
+**Question 3: Among players over the age of 35 who attempted more than one three-pointer per game and played in over 25 games, which five players had the lowest three point percentage?**
+
+![Screen Shot 2023-08-28 at 9 58 12 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/fa069820-9961-474d-9a3c-6a938b466b21)
+
+![Screen Shot 2023-08-28 at 9 58 30 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/7fbf6828-e694-4dc4-b30c-7a850b475d0b)
+
+Answer (ascending order): Rudy Gay, Jeff Green, Wesley Matthews, Lebron James, and Kyle Lowry
+
+
 
 ## Part 2: Use of CASE WHEN 
 
