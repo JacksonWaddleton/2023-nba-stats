@@ -35,6 +35,7 @@ Answer (ascending order): Rudy Gay, Jeff Green, Wesley Matthews, Lebron James, a
 ![Screen Shot 2023-08-28 at 10 27 08 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/0c476fd2-573e-44b5-a130-05fe9d6f637c)
 
 Answer (descending order): Jaren Jackson, Jr. & Nic Claxton, Brook Lopez, Walker Kessler, and Anthony Edwards
+
 **Question 5: Did any players record more offensive rebounds than defensive rebounds?**
 
 ![Screen Shot 2023-08-28 at 10 28 20 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/83838ace-cf21-49e1-a9f3-55c9412828cc)
