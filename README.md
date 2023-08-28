@@ -60,7 +60,7 @@ Yes, there were 9 players with more offensive than defensive rebounds.
 
 **Answer:**
 
-![Screen Shot 2023-08-28 at 3 24 10 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/c0e29ae2-03fa-40f4-871a-e369e4b832b5)
+![Screen Shot 2023-08-28 at 3 32 34 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/2e19c200-0a70-4d01-9ee1-c53abb50ce8d)
 
 Tyus Jones, Keita Bates-Diop, Obi Toppin, Devonte' Graham, Eric Gordon, Pat Connaughton, Rui Hachimura, Delon Wright, Jordan Nwora, AJ Griffin 
 
