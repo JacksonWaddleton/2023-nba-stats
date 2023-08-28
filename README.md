@@ -54,6 +54,40 @@ Jaren Jackson, Jr. & Nic Claxton, Brook Lopez, Walker Kessler, and Anthony Edwar
 
 Yes, there were 9 players with more offensive than defensive rebounds. 
 
+### Question 6: Among players who played over 1000 minutes, which ten players averaged the least fouls per game? ###
+
+![Screen Shot 2023-08-28 at 3 23 39 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/06672c92-2e7e-4b50-b9f5-28ccbf20e802)
+
+**Answer:**
+
+![Screen Shot 2023-08-28 at 3 24 10 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/c0e29ae2-03fa-40f4-871a-e369e4b832b5)
+
+Tyus Jones, Keita Bates-Diop, Obi Toppin, Devonte' Graham, Eric Gordon, Pat Connaughton, Rui Hachimura, Delon Wright, Jordan Nwora, AJ Griffin 
+
+### Question 7: Among players who played in 60 or more games but played 750 minutes or less, which player scored the most fantasy points?  ###
+
+![Screen Shot 2023-08-28 at 3 26 15 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/602d109b-5913-492c-9d17-1cff0c47e6ee)
+
+**Answer:**
+
+![Screen Shot 2023-08-28 at 3 26 38 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/9efeaaea-3612-4cc4-8c33-5a5bc4aa292e)
+
+Chimezie Metu
+
+### Question 8: Among players who played in over 10 games and attempted 1 or more three pointers per game, which players had a higher three point percentage than overall field goal percentage? ### 
+
+![Screen Shot 2023-08-28 at 3 27 42 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/2e030f1d-3d22-43b4-be59-306728d06033)
+
+**Answer:**
+
+![Screen Shot 2023-08-28 at 3 28 23 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/2b42c912-cb2b-4c5e-9014-d405cc5f4c2e)
+
+Ryan Arcidiacono, Blake Wesley, Davon Reed, Garrett Temple, Rodney McGruder, Matt Ryan, Max Christie, Royce O'Neal, Damion Lee, Luke Kennard
+
+
+
+
+
 
 
 
