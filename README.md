@@ -42,7 +42,7 @@ Answer (descending order): Jaren Jackson, Jr. & Nic Claxton, Brook Lopez, Walker
 
 ![Screen Shot 2023-08-28 at 10 28 44 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/a5351171-349e-462d-bf59-ab2bff580019)
 
-Yes, there were 9 players with more offensive than defensive rebounds. 
+Answer: Yes, there were 9 players with more offensive than defensive rebounds. 
 
 
 
