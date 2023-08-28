@@ -24,7 +24,7 @@ Tyrese Haliburton, Nikola Jokic, Trae Young, James Harden, Chris Paul
 
 Giannis Antetokounmpo, Russell Westbrook, Evan Mobley, Rudy Gobert, Jakob Poeltl
 
-**Question 3: Among players over the age of 35 who attempted more than one three-pointer per game and played in over 25 games, which five players had the lowest three point percentage?**
+### Question 3: Among players over the age of 35 who attempted more than one three-pointer per game and played in over 25 games, which five players had the lowest three point percentage? ###
 
 ![Screen Shot 2023-08-28 at 9 58 12 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/fa069820-9961-474d-9a3c-6a938b466b21)
 
@@ -34,7 +34,7 @@ Giannis Antetokounmpo, Russell Westbrook, Evan Mobley, Rudy Gobert, Jakob Poeltl
 
 Rudy Gay, Jeff Green, Wesley Matthews, Lebron James, and Kyle Lowry
 
-**Question 4: Which five players led the NBA in 'stocks' (steals + blocks)?**
+### Question 4: Which five players led the NBA in 'stocks' (steals + blocks)? ###
 
 ![Screen Shot 2023-08-28 at 10 26 50 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/d8d70869-5f9a-43e3-a829-5ec82a19b96d)
 
@@ -44,7 +44,7 @@ Rudy Gay, Jeff Green, Wesley Matthews, Lebron James, and Kyle Lowry
 
 Jaren Jackson, Jr. & Nic Claxton, Brook Lopez, Walker Kessler, and Anthony Edwards
 
-**Question 5: Did any players record more offensive rebounds than defensive rebounds?**
+### Question 5: Did any players record more offensive rebounds than defensive rebounds? ###
 
 ![Screen Shot 2023-08-28 at 10 28 20 AM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/83838ace-cf21-49e1-a9f3-55c9412828cc)
 
