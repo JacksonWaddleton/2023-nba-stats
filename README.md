@@ -1,6 +1,6 @@
 # 🏀 2023 NBA Player Statistics Case Study
 
-This mini case study uses the [NBA Players Stats(2023 Season)](https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season) Kaggle dataset. I use SQL to identify players who fall into specific statistical categories, which could help NBA GM's identify hidden trends among players. 
+This mini case study uses the [NBA Players Stats(2023 Season)](https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season) Kaggle dataset. I use SQL to identify players who fall into specific statistical categories, which could help NBA GM's identify hidden trends among players and aid with roster construction, gameplanning, and load management. 
 
 
 ## Part 1: Use of SELECT Queries
