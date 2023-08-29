@@ -1,5 +1,8 @@
 # 🏀 2023 NBA Player Statistics Case Study
 
+# This mini case study uses the [https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season](NBA Players Stats(2023 Season)) Kaggle dataset
+
+
 ## Part 1: Use of SELECT Queries
 
 ### Question 1: Among players that played at least 1000 minutes, which five players had the most assists per minute? ###
