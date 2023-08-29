@@ -1,6 +1,6 @@
 # 🏀 2023 NBA Player Statistics Case Study
 
-# This mini case study uses the ![https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season](NBA Players Stats(2023 Season)) Kaggle dataset
+# This mini case study uses the [https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season][NBA Players Stats(2023 Season)] Kaggle dataset
 
 
 ## Part 1: Use of SELECT Queries
