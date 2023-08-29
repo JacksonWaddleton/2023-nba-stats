@@ -101,7 +101,7 @@ Ryan Arcidiacono, Blake Wesley, Davon Reed, Garrett Temple, Rodney McGruder, Mat
 
 ![Screen Shot 2023-08-28 at 9 18 12 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/5683e7a3-869b-41b6-b6d7-c1f9079bf817)
 
-**Answer**
+**Answer:**
 
 ![Screen Shot 2023-08-28 at 9 18 49 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/e6746fa1-7593-465e-816a-539a7adbe7a3)
 
