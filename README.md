@@ -1,7 +1,5 @@
 # 🏀 2023 NBA Player Statistics Case Study
 
-## Data Cleaning Process
-
 ## Part 1: Use of SELECT Queries
 
 ### Question 1: Among players that played at least 1000 minutes, which five players had the most assists per minute? ###
