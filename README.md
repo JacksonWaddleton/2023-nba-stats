@@ -84,6 +84,30 @@ Chimezie Metu
 
 Ryan Arcidiacono, Blake Wesley, Davon Reed, Garrett Temple, Rodney McGruder, Matt Ryan, Max Christie, Royce O'Neal, Damion Lee, Luke Kennard
 
+## Part 2: Using CASE WHEN ##
+
+### Question 9: Create labels for each player depending on his team's record (Good record / mediocre / bad / etc.). Of players who scored more than 25 points per game, how many belong to each type of team? 
+
+![Screen Shot 2023-08-28 at 9 12 46 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/87bb6295-3c09-4d6c-8c66-6860b7d879d7)
+
+**Answer:**
+
+![Screen Shot 2023-08-28 at 9 13 20 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/4fbf93d5-5cd2-40f0-a1e1-a29e2da6c311)
+
+1 player was on a great team, 7 players were on a good team, 10 players were on a mediocre team, 1 player was on a bad team, and 1 player was on a terrible team. 
+
+### Question 10: Create age groups for players. Of players who averaged more than 30 minutes per game, how many belong to each age group? ###
+
+![Screen Shot 2023-08-28 at 9 18 12 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/5683e7a3-869b-41b6-b6d7-c1f9079bf817)
+
+**Answer**
+
+![Screen Shot 2023-08-28 at 9 18 49 PM](https://github.com/JacksonWaddleton/2023-nba-stats/assets/42299047/e6746fa1-7593-465e-816a-539a7adbe7a3)
+
+41 players were in the youngprime group, 34 were in the young group, 25 were in the oldprime group, 7 were in the old group, and one was in the baby group. 
+
+
+
 
 
 
